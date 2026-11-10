@@ -1,0 +1,8 @@
+Reference Site:
+https://www.khanacademy.org/
+
+Goals:
+- Recreate the header
+- Recreate the hero section
+- Recreate the buttons
+- Recreate the "Why Khan Academy works" section
